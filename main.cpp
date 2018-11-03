@@ -1,8 +1,6 @@
 //  Sedak Puri
 //  main.cpp
-//  Game Project Week 2
 //  Compiler: XCode
-//  Introduction to C++ for Programmers
 //  Created by Sedak Puri on 7/4/18.
 //  Copyright © 2018 Sedak Puri. All rights reserved.
 
